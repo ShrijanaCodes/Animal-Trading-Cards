@@ -1,33 +1,37 @@
 /* add your CSS here */
-.dog{
+.dog {
     width: 300px;
     border: 1px solid gray;
 }
 
-#fact{
+#fact {
     font-style: italic;
 }
-h3{
+
+h3 {
     text-align: left;
 }
-span{
+
+span {
     font-weight: bold;
 }
-ul{
+
+ul {
     list-style: none;
     margin: 0; padding: 0;
 }
-body{
+
+body {
     width: 330px;
-
-
 }
-.first{
+
+.first {
     text-align: center;
     padding: 10px;
     border: 1px solid gray;
 }
-.second{
+
+.second {
     border: 1px solid gray;
     display: inline-block;
     text-align: left;
